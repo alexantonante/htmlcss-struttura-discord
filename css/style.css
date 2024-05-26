@@ -3,3 +3,51 @@
     padding: 0;
     box-sizing: border-box
 }
+
+header{
+    background-color: #add8e6;
+}
+
+.h-container{
+    max-width: 100%;
+    margin: 0 auto;
+}
+
+.h-row{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0 auto;
+    width: 50%;
+}
+
+.col-logo, .col-login{
+    width: 20%;
+}
+
+.col-link{
+    width: 60%;
+    text-align: center;
+}
+
+.h-content{
+    background-color: #DAA520;
+    border: 1px dashed black;
+    padding: 5px;
+    margin: 10px 0;
+}
+
+ul{
+    list-style: none;
+}
+
+li{
+    display: inline-block;
+}
+
+.col-logo{
+    text-align: start;
+}
+
+.col-login{
+    text-align: end;
+}
