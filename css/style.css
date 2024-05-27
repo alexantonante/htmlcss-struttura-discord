@@ -68,9 +68,9 @@ div[class^="m-row"] {
 }
 
 .m-col-1{
-    height: 230px;
+    height: 200px;
     margin: 20px auto;
-    width: 50%;
+    width: 35%;
     background-color:#EE81EE;
     border: 1px dashed black;
 }
